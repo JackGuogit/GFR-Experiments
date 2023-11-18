@@ -1,7 +1,0 @@
-{
-    "python.analysis.extraPaths": ["./src/common"],
-    "terminal.integrated.env.osx": {
-        "PYTHONPATH": "/Users/mt361/Desktop/MIMIC/mimic-summer/src/common:$PYTHONPATH",
-    },
-    "r.lsp.promptToInstall": false,
-}
