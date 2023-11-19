@@ -1,5 +1,7 @@
 # Fast and Interpretable Mortality Risk Scores for Critical Care Patients
 This repository contains the code implementation for experiments in the paper: *Fast and Interpretable Mortality Risk Scores for Critical Care Patients*. We detail the specific steps to reproduce our results below.
+<img width="1296" alt="fr-15" src="https://github.com/MuhangTian/GFR-Experiments/assets/89415312/b5c3c53b-4656-4725-aea0-53e32a46fdb8">
+
 
 ## Setup
 * Install packages using `requirements.txt`.
